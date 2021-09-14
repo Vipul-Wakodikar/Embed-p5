@@ -1,0 +1,31 @@
+body{
+	background-color: rgb(21,8,50);
+}
+h2{
+	fontweight: 200;
+	color: rgba(255,255,255,0.4);
+}
+iframe{
+	overflow-y: hidden;
+}
+.desc{
+	fontweight: 400;
+	fontsize: 30px;
+	color: white;
+}
+.navbar-nav {
+    margin-left: right;
+}
+.sumo{
+	display: flex;
+    align-items: center;
+    justify-content: center;
+	padding-left: 30%;
+}
+h3{
+	color: hotpink;
+}
+.nav-items:hover{
+	background-color: #000033;
+	
+}
