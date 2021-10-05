@@ -1,16 +1,17 @@
-*p5 JS projects*
 
-Mentor: Daniel Shiffman
+
+Mentor: Kalanithi Sethuraman
 Author: Vipul Wakodikar
 
 IDE used:  Visual studio code 2019
 
-Tools used: p5 JS, Matter.js, HTML, CSS, Bootstrap
+Tools used: p5 JS, Matter.js, HTML, CSS, JavaScript and Bootstrap
 
 Introduction:
 
 The Objective of this project to display various p5 JS Project within HTML/ CSS website
 the website consist of many small p5 JS. They are Graphic animation using perlin noise, Sumo Game and physics Engine
+all the javascript files are available inside the Sumo, physics and perlin folder
 
 what is p5?
 p5 JS is a scripting language and an amazing tool which is use to create various graphic designs and patterns. 
